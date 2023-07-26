@@ -1,0 +1,5 @@
+package com.gb.Pages;
+
+public class DeleteAccountPage {
+
+}
